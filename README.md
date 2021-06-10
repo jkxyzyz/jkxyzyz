@@ -66,11 +66,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkxyzyz)](https://github.com/anuraghazra/github-readme-stats)
 
-Message @A Person
 
 👁️👄👁️ 
 
-�
+
 
 <!---
 you are a ✨ special ✨ boy because you read this `README.md` file.
